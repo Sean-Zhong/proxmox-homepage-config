@@ -1,1 +1,1 @@
-rsync -a --delete /config /opt/homepage/config
+rsync -a --delete config /opt/homepage
