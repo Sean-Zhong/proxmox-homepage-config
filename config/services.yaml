@@ -8,22 +8,25 @@
         description: Proxmox Web Ui
     - Portainer:
         href: https://docker.seanzhong.com/
+        icon: https://cloud.seanzhong.com/public.php/dav/files/CjCfTeJq9jAcRDK/Portainer.svg
         description: Portainer Web Ui
     - Pi-hole:
         href: http://pi.hole/
+        icon: https://cloud.seanzhong.com/public.php/dav/files/CjCfTeJq9jAcRDK/pihole.svg
         description: Pi-hole Web Ui
 
 - Media:
     - Jellyfin:
         href: http://jellyfin.seanzhong.com/
-        icon: https://raw.githubusercontent.com/jellyfin/jellyfin-web/refs/heads/master/src/favicon.ico
+        icon: https://cloud.seanzhong.com/public.php/dav/files/CjCfTeJq9jAcRDK/jellyfin.svg
         description: Jellyfin media player
     - TrueNas:
         href: https://truenas.seanzhong.com/
+        icon: https://cloud.seanzhong.com/public.php/dav/files/CjCfTeJq9jAcRDK/truenas-scale.svg
         description: TrueNas Web Ui
 
 - Home:
     - Home Assistant:
         href: https://ha.seanzhong.com/
-        icon: https://cloud.seanzhong.com/remote.php/dav/files/sean/HomepageIcons/file-type-homeassistant.svg
+        icon: https://cloud.seanzhong.com/public.php/dav/files/CjCfTeJq9jAcRDK/file-type-homeassistant.svg
         description: Homeassistant Web Ui
