@@ -8,7 +8,7 @@
         description: Proxmox Web Ui
     - Portainer:
         href: https://docker.seanzhong.com/
-        icon: https://cloud.seanzhong.com/index.php/s/CjCfTeJq9jAcRDK//download/Portainer.svg
+        icon: https://cloud.seanzhong.com/index.php/s/CjCfTeJq9jAcRDK/download/Portainer.svg
         description: Portainer Web Ui
     - Pi-hole:
         href: http://pi.hole/
