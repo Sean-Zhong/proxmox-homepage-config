@@ -3,12 +3,12 @@
 
 - Managenment:
     - Proxmox:
-        href: https://proxmox.seanzhong.com
+        href: https://proxmox.seanzhong.com/
         description: Proxmox Web Ui
 
 - Media:
     - Jellyfin:
-        href: http://192.168.10.172:8096/
+        href: http://jellyfin.seanzhong.com
         description: Jellyfin media player
 
 - My Third Group:
