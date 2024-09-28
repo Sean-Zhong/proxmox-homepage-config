@@ -8,25 +8,25 @@
         description: Proxmox Web Ui
     - Portainer:
         href: https://docker.seanzhong.com/
-        icon: https://cloud.seanzhong.com/index.php/s/CjCfTeJq9jAcRDK/download/Portainer.svg
+        icon: https://cloud.seanzhong.com/index.php/s/Yc3ajctYZ2w8MFa/download/Portainer.svg
         description: Portainer Web Ui
     - Pi-hole:
         href: http://pi.hole/
-        icon: https://cloud.seanzhong.com/public.php/dav/files/CjCfTeJq9jAcRDK/pihole.svg
+        icon: https://cloud.seanzhong.com/index.php/s/5XjgLBksSAr375X/download/pihole.svg
         description: Pi-hole Web Ui
 
 - Media:
     - Jellyfin:
         href: http://jellyfin.seanzhong.com/
-        icon: https://cloud.seanzhong.com/public.php/dav/files/CjCfTeJq9jAcRDK/jellyfin.svg
+        icon: https://cloud.seanzhong.com/index.php/s/sDo2i3zi5smmyn7/download/jellyfin.svg
         description: Jellyfin media player
     - TrueNas:
         href: https://truenas.seanzhong.com/
-        icon: https://cloud.seanzhong.com/public.php/dav/files/CjCfTeJq9jAcRDK/truenas-scale.svg
+        icon: https://cloud.seanzhong.com/index.php/s/b4wWFis44Y2KBkz/download/truenas-scale.svg
         description: TrueNas Web Ui
 
 - Home:
     - Home Assistant:
         href: https://ha.seanzhong.com/
-        icon: https://cloud.seanzhong.com/public.php/dav/files/CjCfTeJq9jAcRDK/file-type-homeassistant.svg
+        icon: https://cloud.seanzhong.com/index.php/s/jHn4r7J2ZqdyA3a/download/file-type-homeassistant.svg
         description: Homeassistant Web Ui
