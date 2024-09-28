@@ -1,16 +1,15 @@
-  GNU nano 7.2                                                                                              services.yaml                                                                                                       
----
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/services
+
+- Managenment:
+    - Proxmox:
+        href: https://proxmox.seanzhong.com
+        description: Proxmox Web Ui
 
 - Media:
     - Jellyfin:
         href: http://192.168.10.172:8096/
         description: Jellyfin media player
-- My Second Group:
-    - My Second Service:
-        href: http://localhost/
-        description: Homepage is the best
 
 - My Third Group:
     - My Third Service:
