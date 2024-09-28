@@ -8,29 +8,29 @@
         description: Proxmox Web Ui
     - Portainer:
         href: https://docker.seanzhong.com/
-        icon: https://cloud.seanzhong.com/index.php/s/Yc3ajctYZ2w8MFa/download/Portainer.svg
+        icon: https://cloud.seanzhong.com/index.php/s/cfepD5DiTkbPjde/download/Portainer.svg
         description: Portainer Web Ui
     - Pi-hole:
         href: http://pi.hole/
-        icon: https://cloud.seanzhong.com/index.php/s/5XjgLBksSAr375X/download/pihole.svg
+        icon: https://cloud.seanzhong.com/index.php/s/DSLxi7dS75pdwtB/download/pihole.svg
         description: Pi-hole Web Ui
 
 - Media:
     - Jellyfin:
         href: http://jellyfin.seanzhong.com/
-        icon: https://cloud.seanzhong.com/index.php/s/sDo2i3zi5smmyn7/download/jellyfin.svg
+        icon: https://cloud.seanzhong.com/index.php/s/S5xcAWS3yWLcN6L/download/jellyfin.svg
         description: Jellyfin media player
     - TrueNas:
         href: https://truenas.seanzhong.com/
-        icon: https://cloud.seanzhong.com/index.php/s/b4wWFis44Y2KBkz/download/truenas-scale.svg
+        icon: https://cloud.seanzhong.com/index.php/s/JzyBYZXynW7ppYG/download/truenas-scale.svg
         description: TrueNas Web Ui
     - NextCloud:
         href: https://cloud.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/Tg3xBLcYbxqbFm2/download/nextcloud.512x512.png
-        descrition: NextCloud
+        descrition: NextCloud Web Ui
 
 - Home:
     - Home Assistant:
         href: https://ha.seanzhong.com/
-        icon: https://cloud.seanzhong.com/index.php/s/jHn4r7J2ZqdyA3a/download/file-type-homeassistant.svg
+        icon: https://cloud.seanzhong.com/index.php/s/AMJQTzfr2tqQCaw/download/file-type-homeassistant.svg
         description: Homeassistant Web Ui
