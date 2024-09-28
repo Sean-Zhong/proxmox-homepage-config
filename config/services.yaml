@@ -24,6 +24,10 @@
         href: https://truenas.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/b4wWFis44Y2KBkz/download/truenas-scale.svg
         description: TrueNas Web Ui
+    - NextCloud:
+        href: https://cloud.seanzhong.com/
+        icon: https://cloud.seanzhong.com/index.php/s/Tg3xBLcYbxqbFm2/download/nextcloud.512x512.png
+        descrition: NextCloud
 
 - Home:
     - Home Assistant:
