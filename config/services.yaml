@@ -1,7 +1,7 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/services
 
-- Managenment:
+- VM/Container Managenment:
     - Proxmox:
         href: https://proxmox.seanzhong.com/
         icon: https://git.proxmox.com/?p=pve-manager.git;a=blob;f=www/images/favicon.ico;h=ba0c9af606c2766dfd56afa3a49f7e09a700f8fc;hb=refs/heads/master
@@ -10,10 +10,20 @@
         href: https://docker.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/cfepD5DiTkbPjde/download/Portainer.svg
         description: Portainer Web Ui
+
+- Networking:
     - Pi-hole:
         href: http://pi.hole/
         icon: https://cloud.seanzhong.com/index.php/s/DSLxi7dS75pdwtB/download/pihole.svg
         description: Pi-hole Web Ui
+    - Router:
+        href: http://router.seanzhong.com/
+        icon: https://cloud.seanzhong.com/index.php/s/AFPEALoNNsT44N9/download/router.png
+        description: DDWRT interface
+    - Nginx Proxy Manager:
+        href: http://npm.seanzhong.com:81/
+        icon: https://cloud.seanzhong.com/index.php/s/DbxT3XzcMtxjsDC/download/icon.png
+        description: Nginx Proxy Manager admin dashboard
 
 - Media:
     - Jellyfin:
