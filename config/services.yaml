@@ -5,13 +5,16 @@
     - Proxmox:
         href: https://proxmox.seanzhong.com/
         description: Proxmox Web Ui
+    - Portainer:
+        href: https://docker.seanzhong.com/
+        description: Portainer Web Ui
 
 - Media:
     - Jellyfin:
         href: http://jellyfin.seanzhong.com
         description: Jellyfin media player
 
-- My Third Group:
-    - My Third Service:
-        href: http://localhost/
-        description: Homepage is  ^=^x^n
+- Home:
+    - Home Assistant:
+        href: https://ha.seanzhong.com/
+        description: Homeassistant Web Ui
