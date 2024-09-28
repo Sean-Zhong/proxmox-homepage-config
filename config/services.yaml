@@ -9,13 +9,21 @@
     - Portainer:
         href: https://docker.seanzhong.com/
         description: Portainer Web Ui
+    - Pi-hole:
+        href: http://pi.hole/
+        description: Pi-hole Web Ui
 
 - Media:
     - Jellyfin:
-        href: http://jellyfin.seanzhong.com
+        href: http://jellyfin.seanzhong.com/
+        icon: https://raw.githubusercontent.com/jellyfin/jellyfin-web/refs/heads/master/src/favicon.ico
         description: Jellyfin media player
+    - TrueNas:
+        href: https://truenas.seanzhong.com/
+        description: TrueNas Web Ui
 
 - Home:
     - Home Assistant:
         href: https://ha.seanzhong.com/
+        icon: https://cloud.seanzhong.com/remote.php/dav/files/sean/HomepageIcons/file-type-homeassistant.svg
         description: Homeassistant Web Ui
