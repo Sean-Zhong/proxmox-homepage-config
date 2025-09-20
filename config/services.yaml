@@ -14,6 +14,10 @@
         href: https://k8s.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/cfepD5DiTkbPjde/download/Portainer.svg
         description: Kubernetes Portainer Web Ui
+    - Grafana:
+        href: http://grafana.seanzhong.com/
+        icon: https://cloud.seanzhong.com/index.php/s/JsCqbfjXi6xrGbX/download/grafana_icon_130916.png
+        description: Grafana Monitoring
 
 - Networking:
     - Pi-hole:
