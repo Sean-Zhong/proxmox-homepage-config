@@ -9,7 +9,11 @@
     - Portainer:
         href: https://docker.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/cfepD5DiTkbPjde/download/Portainer.svg
-        description: Portainer Web Ui
+        description: Docker Portainer Web Ui
+    - K8s:
+        href: https://k8s.seanzhong.com/
+        icon: https://cloud.seanzhong.com/index.php/s/cfepD5DiTkbPjde/download/Portainer.svg
+        description: Kubernetes Portainer Web Ui
 
 - Networking:
     - Pi-hole:
