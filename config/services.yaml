@@ -6,6 +6,12 @@
         href: https://proxmox.seanzhong.com/
         icon: https://git.proxmox.com/?p=pve-manager.git;a=blob;f=www/images/favicon.ico;h=ba0c9af606c2766dfd56afa3a49f7e09a700f8fc;hb=refs/heads/master
         description: Proxmox Web Ui
+        widget:
+          type: proxmox
+          url: https://proxmox.seanzhong.com
+          token: api@pam!homepage
+          secret: {{PROXMOX_API_TOKEN}}
+
     - Portainer:
         href: https://docker.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/cfepD5DiTkbPjde/download/Portainer.svg
