@@ -1,0 +1,11 @@
+pve:
+  url: https://proxmox.seanzhong.com
+  token: api@pam!homepage
+  secret: {{PROXMOX_API_TOKEN}}
+
+  HomeAssistant:
+    icon: home-assistant.png
+    href: https://ha.seanzhong.com/
+    description: Home automation
+    proxmoxNode: pve
+    proxmoxVMID: 109
