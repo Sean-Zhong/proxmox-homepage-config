@@ -5,7 +5,7 @@ services:
     ports:
       - 3000:3000
     volumes:
-      - /path/proxmox-homepage-config/config:/app/config
+      - /etc/komodo/stacks/homepage/config:/app/config
       - /var/run/docker.sock:/var/run/docker.sock
     environment:
       HOMEPAGE_ALLOWED_HOSTS: homepage.seanzhong.com
