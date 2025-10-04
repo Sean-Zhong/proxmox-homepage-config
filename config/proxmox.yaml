@@ -1,4 +1,0 @@
-pve:
-  url: https://proxmox.seanzhong.com
-  token: api@pam!homepage
-  secret: {{PROXMOX_API_TOKEN}}
