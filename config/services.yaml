@@ -80,3 +80,10 @@
         href: https://ha.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/AMJQTzfr2tqQCaw/download/file-type-homeassistant.svg
         description: Homeassistant Web Ui
+        widget:
+          type: homeassistant
+          url: https://ha.seanzhong.com
+          key: {{HOMEPAGE_VAR_HOMEASSISTANT_KEY}}
+          custom:
+            - state: sensor.hue_motion_sensor_1_temperature
+              label: Hallway Temperature Sensor
