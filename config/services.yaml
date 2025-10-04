@@ -64,6 +64,12 @@
         href: https://truenas.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/JzyBYZXynW7ppYG/download/truenas-scale.svg
         description: TrueNas Web Ui
+        widget:
+          type: truenas
+          url: https://truenas.seanzhong.com
+          key: {{HOMEPAGE_VARS_TRUENAS_KEY}}
+          enablePools: true
+
     - NextCloud:
         href: https://cloud.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/Tg3xBLcYbxqbFm2/download/nextcloud.512x512.png
