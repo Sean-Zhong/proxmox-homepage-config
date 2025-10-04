@@ -39,7 +39,13 @@
     - Router:
         href: http://router.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/AFPEALoNNsT44N9/download/router.png
-        description: DDWRT interface
+        description: Unifi interface
+        widget:
+          type: unifi
+          url: http://router.seanzhong.com/
+          username: admin
+          password: {{HOMEPAGE_VAR_UNIFI_PASSWORD}}
+
     - Nginx Proxy Manager:
         href: http://npm.seanzhong.com:81/
         icon: https://cloud.seanzhong.com/index.php/s/DbxT3XzcMtxjsDC/download/icon.png
