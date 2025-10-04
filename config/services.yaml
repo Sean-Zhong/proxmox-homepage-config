@@ -42,7 +42,7 @@
         description: Unifi interface
         widget:
           type: unifi
-          url: http://router.seanzhong.com/
+          url: http://192.168.111.1
           username: admin
           password: {{HOMEPAGE_VAR_UNIFI_PASSWORD}}
 
@@ -52,7 +52,7 @@
         description: Nginx Proxy Manager admin dashboard
         widget:
           type: npm
-          url: http://npm.seanzhong.com
+          url: http://npm.seanzhong.com:81
           username: szhrune@gmail.com
           password: {{HOMEPAGE_VAR_NPM_PASSWORD}}
 
