@@ -44,6 +44,11 @@
         href: http://npm.seanzhong.com:81/
         icon: https://cloud.seanzhong.com/index.php/s/DbxT3XzcMtxjsDC/download/icon.png
         description: Nginx Proxy Manager admin dashboard
+        widget:
+          type: npm
+          url: http://npm.seanzhong.com
+          username: szhrune@gmail.com
+          password: {{HOMEPAGE_VAR_NPM_PASSWORD}}
 
 - Media:
     - Jellyfin:
