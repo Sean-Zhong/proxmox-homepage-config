@@ -10,7 +10,7 @@
           type: proxmox
           url: https://proxmox.seanzhong.com
           username: api@pam!homepage
-          password: {{PROXMOX_API_TOKEN}}
+          password: {{HOMEPAGE_VAR_PROXMOX_PASSWORD}}
 
     - Portainer:
         href: https://docker.seanzhong.com/
