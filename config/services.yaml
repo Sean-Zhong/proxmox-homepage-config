@@ -9,8 +9,8 @@
         widget:
           type: proxmox
           url: https://proxmox.seanzhong.com
-          token: api@pam!homepage
-          secret: {{PROXMOX_API_TOKEN}}
+          username: api@pam!homepage
+          password: {{PROXMOX_API_TOKEN}}
 
     - Portainer:
         href: https://docker.seanzhong.com/
