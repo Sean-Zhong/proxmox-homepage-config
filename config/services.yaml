@@ -10,7 +10,7 @@
           type: proxmox
           url: https://proxmox.seanzhong.com
           username: api@pam!homepage
-          password: {{HOMEPAGE_VAR_PROXMOX_PASSWORD}}
+          password: {{HOMEPAGE_VAR_PROXMOX_API_TOKEN}}
 
     - Portainer:
         href: https://docker.seanzhong.com/
@@ -27,9 +27,15 @@
 
 - Networking:
     - Pi-hole:
-        href: http://pi.hole/
+        href: http://pihole.seanzhong.com/admin
         icon: https://cloud.seanzhong.com/index.php/s/DSLxi7dS75pdwtB/download/pihole.svg
         description: Pi-hole Web Ui
+        widget:
+          type: pihole
+          url: http://pihole.seanzhong.com
+          version: 6
+          key: {{HOMEPAGE_VAR_PIHOLE_PASSWORD}}
+
     - Router:
         href: http://router.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/AFPEALoNNsT44N9/download/router.png

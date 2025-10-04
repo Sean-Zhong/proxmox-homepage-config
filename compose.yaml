@@ -10,4 +10,5 @@ services:
     environment:
       HOMEPAGE_ALLOWED_HOSTS: homepage.seanzhong.com
       HOMEPAGE_VAR_PROXMOX_PASSWORD: $PROXMOX_API_TOKEN
+      HOMEPAGE_VAR_PIHOLE_PASSWORD: $PIHOLE_PASSWORD
     restart: unless-stopped
