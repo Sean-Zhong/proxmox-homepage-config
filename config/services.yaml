@@ -67,7 +67,7 @@
         widget:
           type: truenas
           url: https://truenas.seanzhong.com
-          key: {{HOMEPAGE_VARS_TRUENAS_KEY}}
+          key: {{HOMEPAGE_VAR_TRUENAS_KEY}}
           enablePools: true
 
     - NextCloud:
