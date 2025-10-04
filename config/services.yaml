@@ -37,14 +37,13 @@
           key: {{HOMEPAGE_VAR_PIHOLE_PASSWORD}}
 
     - Router:
-        href: http://router.seanzhong.com/
+        href: https://router.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/AFPEALoNNsT44N9/download/router.png
         description: Unifi interface
         widget:
           type: unifi
-          url: http://192.168.111.1
-          username: admin
-          password: {{HOMEPAGE_VAR_UNIFI_PASSWORD}}
+          url: https://router.seanzhong.com
+          key: {{HOMEPAGE_VAR_UNIFI_KEY}}
 
     - Nginx Proxy Manager:
         href: http://npm.seanzhong.com:81/
