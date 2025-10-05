@@ -19,7 +19,7 @@
         widget:
           type: portainer
           url: https://docker.seanzhong.com
-          env: 1
+          env: local
           key: {{HOMEPAGE_VAR_PORTAINER_KEY}}
 
     - K8s:
