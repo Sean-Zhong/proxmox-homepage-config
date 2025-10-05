@@ -60,6 +60,16 @@
         href: http://jellyfin.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/S5xcAWS3yWLcN6L/download/jellyfin.svg
         description: Jellyfin media player
+        widget:
+          type: jellyfin
+          url: http://jellyfin.seanzhong.com
+          key: {{HOMEPAGE_VAR_JELLYFIN_KEY}}
+          enableBlocks: true # optional, defaults to false
+          enableNowPlaying: true # optional, defaults to true
+          enableUser: true # optional, defaults to false
+          enableMediaControl: false # optional, defaults to true
+          showEpisodeNumber: true # optional, defaults to false
+          expandOneStreamToTwoRows: false # optional, defaults to true
     - TrueNas:
         href: https://truenas.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/JzyBYZXynW7ppYG/download/truenas-scale.svg
