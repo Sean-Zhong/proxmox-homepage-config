@@ -16,6 +16,12 @@
         href: https://docker.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/cfepD5DiTkbPjde/download/Portainer.svg
         description: Docker Portainer Web Ui
+        widget:
+          type: portainer
+          url: https://docker.seanzhong.com
+          env: 1
+          key: {{HOMEPAGE_VAR_PORTAINER_KEY}}
+
     - K8s:
         href: https://k8s.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/cfepD5DiTkbPjde/download/Portainer.svg
