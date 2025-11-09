@@ -114,7 +114,8 @@
         widget:
         type: nextcloud
         url: https://cloud.seanzhong.com
-        key: {{HOMEPAGE_VAR_NEXTCLOUD_KEY}}
+        username: admin
+        password: {{HOMEPAGE_VAR_NEXTCLOUD_KEY}}
 
 - Home:
     - Home Assistant:
