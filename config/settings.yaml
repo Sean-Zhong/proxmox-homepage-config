@@ -4,3 +4,5 @@
 providers:
   openweathermap: openweathermapapikey
   weatherapi: weatherapiapikey
+  longhorn:
+    url: https://longhorn.seanzhong.com

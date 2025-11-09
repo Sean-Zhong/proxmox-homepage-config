@@ -11,6 +11,12 @@
     format: # optional, Intl.NumberFormat options
       maximumFractionDigits: 1
 
+- longhorn:
+    expanded: true
+    total: true
+    labels: true
+    nodes: true
+
 - search:
     provider: google
     target: _blank

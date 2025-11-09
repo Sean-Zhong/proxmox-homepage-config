@@ -61,6 +61,13 @@
           username: szhrune@gmail.com
           password: {{HOMEPAGE_VAR_NPM_PASSWORD}}
 
+    - Traefik:
+        href: http://traefik.seanzhong.com
+        icon: https://cloud.seanzhong.com/index.php/s/g8Hy25JXbg6RyHt/download/images.png
+        description: Traefik dashboard
+        username: sean
+        password: {{HOMEPAGE_VAR_TRAEFIK_PASSWORD}}
+
 - Media:
     - Jellyfin:
         href: http://jellyfin.seanzhong.com/
