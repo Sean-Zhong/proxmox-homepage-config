@@ -112,10 +112,10 @@
         icon: https://cloud.seanzhong.com/index.php/s/Tg3xBLcYbxqbFm2/download/nextcloud.512x512.png
         descrition: NextCloud Web Ui
         widget:
-        type: nextcloud
-        url: https://cloud.seanzhong.com
-        username: admin
-        password: {{HOMEPAGE_VAR_NEXTCLOUD_KEY}}
+          type: nextcloud
+          url: https://cloud.seanzhong.com
+          username: admin
+          password: {{HOMEPAGE_VAR_NEXTCLOUD_KEY}}
 
 - Home:
     - Home Assistant:
