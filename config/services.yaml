@@ -30,6 +30,13 @@
         href: http://grafana.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/JsCqbfjXi6xrGbX/download/grafana_icon_130916.png
         description: Grafana Monitoring
+        widget:
+          type: grafana
+          version: 2
+          alerts: alertmanager
+          url: https://grafana.seanzhong.com
+          username: admin
+          password: {{HOMEPAGE_VAR_GRAFANA_PASSWORD}}
 
 - Networking:
     - Pi-hole:
