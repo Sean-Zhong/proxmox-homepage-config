@@ -111,6 +111,10 @@
         href: https://cloud.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/Tg3xBLcYbxqbFm2/download/nextcloud.512x512.png
         descrition: NextCloud Web Ui
+        widget:
+        type: nextcloud
+        url: https://cloud.seanzhong.com
+        key: {{HOMEPAGE_VAR_NEXTCLOUD_KEY}}
 
 - Home:
     - Home Assistant:
