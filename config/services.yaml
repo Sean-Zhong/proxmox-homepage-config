@@ -23,9 +23,16 @@
           key: {{HOMEPAGE_VAR_PORTAINER_KEY}}
 
     - K8s:
-        href: https://k8s.seanzhong.com/
+        href: https://portainer.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/cfepD5DiTkbPjde/download/Portainer.svg
         description: Kubernetes Portainer Web Ui
+        widget:
+          type: portainer
+          url: https://portainer.seanzhong.com
+          env: 1
+          kubernetes: true
+          key: {{HOMEPAGE_VAR_K8S_PORTAINER_KEY}}
+
     - Grafana:
         href: http://grafana.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/JsCqbfjXi6xrGbX/download/grafana_icon_130916.png
