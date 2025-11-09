@@ -115,5 +115,5 @@
           url: https://ha.seanzhong.com
           key: {{HOMEPAGE_VAR_HOMEASSISTANT_KEY}}
           custom:
-            - state: sensor.hue_motion_sensor_1_temperature
+            - state: sensor.hue_motion_sensor_temperature
               label: Hallway Temperature Sensor
