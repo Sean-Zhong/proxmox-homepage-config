@@ -45,6 +45,17 @@
           username: admin
           password: {{HOMEPAGE_VAR_GRAFANA_PASSWORD}}
 
+    - Komodo:
+        href: https//komodo.seanzhong.com
+        icon: https://cloud.seanzhong.com/index.php/s/nEWfmC52oActEDa/download/komodo-512x512.png
+        description: Komodo Docker Environment
+        widget:
+          type: komodo
+          url: https://komodo.seanzhong.com
+          key: {{HOMEPAGE_VAR_KOMODO_KEY}}
+          secret: {{HOMEPAGE_VAR_KOMODO_SECRET}}
+          showStacks: true
+
 - Networking:
     - Pi-hole:
         href: http://pihole.seanzhong.com/admin
