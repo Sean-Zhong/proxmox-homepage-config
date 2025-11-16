@@ -128,6 +128,12 @@
           username: admin
           password: {{HOMEPAGE_VAR_NEXTCLOUD_KEY}}
 
+- Tools/Utils:
+    - Stirling Pdf:
+        href: https://pdf.seanzhong.com/
+        icon: https://cloud.seanzhong.com/index.php/s/Tg3xBLcYbxqbFm2/download/stirling.png
+        descrition: Multi tool for pdf files
+
 - Home:
     - Home Assistant:
         href: https://ha.seanzhong.com/
