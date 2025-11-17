@@ -93,7 +93,7 @@
         username: sean
         password: {{HOMEPAGE_VAR_TRAEFIK_PASSWORD}}
 
-- Media:
+- Media/Storage:
     - Jellyfin:
         href: http://jellyfin.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/S5xcAWS3yWLcN6L/download/jellyfin.svg
@@ -108,6 +108,7 @@
           enableMediaControl: false # optional, defaults to true
           showEpisodeNumber: true # optional, defaults to false
           expandOneStreamToTwoRows: false # optional, defaults to true
+
     - TrueNas:
         href: https://truenas.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/JzyBYZXynW7ppYG/download/truenas-scale.svg
@@ -127,6 +128,11 @@
           url: https://cloud.seanzhong.com
           username: admin
           password: {{HOMEPAGE_VAR_NEXTCLOUD_KEY}}
+
+    - Longhorn:
+        href: https://longhorn.seanzhong.com
+        icon: https://cloud.seanzhong.com/index.php/s/rKf4BsGxGPTSEwn/download/longhorn.png
+
 
 - Tools/Utils:
     - Stirling Pdf:
