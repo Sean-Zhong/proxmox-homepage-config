@@ -1,7 +1,7 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/services
 
-- VM/Container Managenment:
+- VM/Container Management:
     - Proxmox:
         href: https://proxmox.seanzhong.com/
         icon: https://git.proxmox.com/?p=pve-manager.git;a=blob;f=www/images/favicon.ico;h=ba0c9af606c2766dfd56afa3a49f7e09a700f8fc;hb=refs/heads/master

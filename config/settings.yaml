@@ -6,3 +6,8 @@ providers:
   weatherapi: weatherapiapikey
   longhorn:
     url: https://longhorn.seanzhong.com
+
+layout:
+  VM/Container Management:
+    style: row
+    columns: 4
