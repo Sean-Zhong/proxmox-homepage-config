@@ -56,6 +56,16 @@
           secret: {{HOMEPAGE_VAR_KOMODO_SECRET}}
           showStacks: true
 
+    - Proxmox Backup Server:
+        href: https://pbs.seanzhong.com
+        icon: https://git.proxmox.com/?p=pve-manager.git;a=blob;f=www/images/favicon.ico;h=ba0c9af606c2766dfd56afa3a49f7e09a700f8fc;hb=refs/heads/master
+        description: Proxmox Backup Server
+        widget:
+          type: proxmoxbackupserver
+          url: https://pbs.seanzhong.com
+          username: homepage@pbs!homepage
+          password: {{HOMEPAGE_VAR_PBS_SECRET}}
+
 - Networking:
     - Pi-hole:
         href: http://pihole.seanzhong.com/admin
