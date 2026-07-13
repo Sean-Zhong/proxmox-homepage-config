@@ -150,6 +150,11 @@
         icon: https://cloud.seanzhong.com/index.php/s/S3wfqx3gPS2X7r6/download/stirling.png
         description: Multi tool for pdf files
 
+    - Crafty Controller:
+        href: https://crafty.seanzhong.com/
+        icon: https://cloud.seanzhong.com/index.php/s/oXFpn7bH5Fad3Sa/download/crafty-controller.png
+        description: Crafty Minecraft server control interface
+
 - Home:
     - Home Assistant:
         href: https://ha.seanzhong.com/
