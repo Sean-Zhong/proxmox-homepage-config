@@ -139,12 +139,27 @@
           username: admin
           password: {{HOMEPAGE_VAR_NEXTCLOUD_KEY}}
 
+    - Immich:
+        href: https://immich.seanzhong.com/
+        icon: https://cloud.seanzhong.com/index.php/s/B4bXDwSJcFajbFw/download/immich.png
+        descrition: Immich Photo Storage
+        widget:
+          type: immich
+          url: https://immich.seanzhong.com
+          key: {{HOMEPAGE_VAR_IMMICH_KEY}}
+          version: 2
+
     - Longhorn:
         href: https://longhorn.seanzhong.com
         icon: https://cloud.seanzhong.com/index.php/s/rKf4BsGxGPTSEwn/download/longhorn.png
 
 
 - Tools/Utils:
+    - Stirling Pdf:
+        href: https://memos.seanzhong.com/
+        icon: https://cloud.seanzhong.com/index.php/s/tKPQrTxbMfWznJC/download/memos.png
+        description: Memos notes
+
     - Stirling Pdf:
         href: https://pdf.seanzhong.com/
         icon: https://cloud.seanzhong.com/index.php/s/S3wfqx3gPS2X7r6/download/stirling.png
